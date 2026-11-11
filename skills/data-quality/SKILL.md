@@ -1,8 +1,6 @@
 ---
 name: data-quality
-description: Check a sample dataset for missing values.
+description: [invalid YAML
 ---
 # Data quality
-
-Count empty values.
-Report the affected columns.
+Check each column.

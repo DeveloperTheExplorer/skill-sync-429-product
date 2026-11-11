@@ -1,8 +1,9 @@
 ---
-name: tone-guide
-description: Use a consistent tone in customer replies.
+name: brand-voice
+description: Apply the new brand voice to customer replies.
 ---
-# Tone guide
+# Brand voice
 
 Write clearly.
-Use a friendly tone.
+Use direct sentences.
+Explain the next step.
